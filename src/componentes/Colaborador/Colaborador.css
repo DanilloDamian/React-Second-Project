@@ -17,8 +17,12 @@
     background: #FFFFFF;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
     border-radius: 0px 0px 10px 10px;
-    padding-top: 90px;
+    padding-top: 50px;
     padding-bottom: 40px;
+    height: 100px;
+    display:flex;
+    flex-direction: column;
+    align-itens: center
 }
 
 .colaborador .rodape h4 {
