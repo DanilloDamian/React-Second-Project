@@ -29,3 +29,14 @@ Conforme cadastro em cada time o mesmo aparece na tela.
 <br>
 <img height="360em" src="https://github.com/DanilloDamian/React-Second-Project/blob/main/public/imagens/Screenshots/Screenshot_4.png"/>
 
+<hr>
+Posteriormente adicionados outro formulário para criação de um time
+<br>
+<br>
+<img height="360em" src="https://github.com/DanilloDamian/React-Second-Project/blob/main/public/imagens/Screenshots/Screenshot_5.png"/>
+
+<hr>
+Para finalizar adicionamos as funcionalidades de deletar e favoritar um colaborador, e alterar as cores (através de um input localizado no canto direito de cada time). 
+<br>
+<br>
+<img height="360em" src="https://github.com/DanilloDamian/React-Second-Project/blob/main/public/imagens/Screenshots/Screenshot_6.png"/>
